@@ -28,7 +28,7 @@ If you're interested in other platforms, feel free to [raise an issue](https://g
 
 These are the highlights why to use the i-doit virtual appliance in a production environment:
 
--   Operating system is the latest stable version of [Debian GNU/Linux](https://debian.org/). [It's our recommened OS.](https://kb.i-doit.com/display/en/System+Requirements)
+-   Operating system is the latest stable version of [Debian GNU/Linux](https://debian.org/). [It's our recommended OS.](https://kb.i-doit.com/display/en/System+Requirements)
 -   [This tool chain](https://github.com/bheisig/i-doit-scripts) is included, so you're ready to start you own CMDB. This includes:
     -   Pre-installed latest version of i-doit pro
     -   Pre-configured LAMP stack (GNU/Linux, Apache Web server, MariaDB and PHP) + memcached
